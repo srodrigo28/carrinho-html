@@ -4,4 +4,4 @@
 * Javascript
 
 > Imagens
-<img src=".screens/web.jpeg" alt="não carregou">
+<img src="./screens/web.jpeg" alt="não carregou">
