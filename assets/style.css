@@ -57,6 +57,7 @@ header{
     transform: scale(1.05) rotate(-1deg);
     border-radius: 5px;
     background-color: #fff;
+    border: transparent;
 }
 .user-options{
     display: flex;
@@ -177,6 +178,7 @@ header{
     transition: .5s;
     border-radius: 7px;
     background-color: #1e1e1e;
+    border: transparent;
 }
 .add-to-card:hover{
     color: #ffa500;
