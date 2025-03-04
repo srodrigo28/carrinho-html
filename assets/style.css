@@ -197,3 +197,13 @@ header{
         padding: 30px;
     }
 }
+
+@media(max-width: 768px){
+    .product-details{
+        flex-direction: column;
+    }
+    .product-gallery{
+        width: 80%;
+        margin: 0 auto;
+    }
+}
