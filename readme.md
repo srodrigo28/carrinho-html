@@ -2,6 +2,7 @@
 * HTML
 * CSS
 * Javascript
+* html 5
 
 > #### Imagens
 <img src="./screens/web.jpeg" alt="não carregou">
